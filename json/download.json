@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "url": "https://gitee.com/justinc-gitee/project_resources/releases/download/zhongzhi/app-release.apk",
-  "content": "增加直接保存日志图片功能; 查看视频功能; 借书还书一致性确认; 优化日志显示; 直接使用设置的用户名登录"
+  "version": "1.0.13",
+  "url": "http://qny.zhongzhi.site/app-release.apk",
+  "content": "增加团队资源功能"
 }
