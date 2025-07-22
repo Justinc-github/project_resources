@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "http://qny.zhongzhi.site/app-release.apk",
-  "content": "工具类别隐藏;具体小类查看;工具的借出与还回"
+  "content": "增加座位排布表(需实名);动态更新权限管理"
 }
